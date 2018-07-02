@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MovieActivity"
+    android:id="@+id/fav_movie_detail_layout">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fav_poster_iv"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:paddingTop="20dp"
+        android:paddingStart="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fav_title_label"
+        android:textStyle="bold"
+        android:text="@string/movie_title"
+        app:layout_constraintLeft_toRightOf="@id/fav_poster_iv"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:paddingTop="20dp"
+        android:textSize="@dimen/title_text_size"
+        android:paddingBottom="0dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fav_title_tv"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toRightOf="@id/fav_title_label"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="10dp"
+        android:paddingTop="20dp"
+        android:textSize="@dimen/title_text_size"
+        android:paddingBottom="0dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fav_rating_label"
+        android:text="@string/movie_rating"
+        app:layout_constraintTop_toBottomOf="@id/fav_title_tv"
+        app:layout_constraintLeft_toRightOf="@id/fav_poster_iv"
+        android:layout_marginTop="0dp"
+        android:layout_marginStart="20dp"
+        android:textSize="@dimen/base_text_size"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fav_rating_tv"
+        app:layout_constraintTop_toBottomOf="@id/fav_title_tv"
+        app:layout_constraintLeft_toRightOf="@id/fav_rating_label"
+        android:layout_marginTop="0dp"
+        android:layout_marginStart="10dp"
+        android:textSize="@dimen/base_text_size"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fav_date_label"
+        android:text="@string/movie_date"
+        app:layout_constraintTop_toBottomOf="@id/fav_rating_tv"
+        app:layout_constraintLeft_toRightOf="@id/fav_poster_iv"
+        android:layout_marginTop="0dp"
+        android:layout_marginStart="20dp"
+        android:textSize="@dimen/base_text_size"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fav_date_tv"
+        app:layout_constraintTop_toBottomOf="@id/fav_rating_tv"
+        app:layout_constraintLeft_toRightOf="@id/fav_date_label"
+        android:layout_marginTop="0dp"
+        android:layout_marginStart="10dp"
+        android:textSize="@dimen/base_text_size"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fav_overview_label"
+        android:text="@string/movie_overview"
+        android:textStyle="italic"
+        app:layout_constraintTop_toBottomOf="@id/fav_poster_iv"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textSize="@dimen/base_text_size"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fav_overview_tv"
+        app:layout_constraintTop_toBottomOf="@id/fav_overview_label"
+        android:textStyle="italic"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="@dimen/base_text_size" />
+
+
+</android.support.constraint.ConstraintLayout>
+
+
+
+
+
