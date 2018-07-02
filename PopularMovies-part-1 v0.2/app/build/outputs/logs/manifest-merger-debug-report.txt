@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/73ae443d9eb39364d9f2e8d410a3e2ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3e7778ab20b82a2703cb474385468741/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3178ef8f52a63c0d2213c0d56d25afb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/379d7005daf8cf4617dfab2f87015cc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bdf365450610af98110c31877ee36a25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a9e072690b95d5db30409ef0300d1a2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cd0fae9e919cce19cc9d36d1bf598789/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/21f235ac35d183275b0559ffd7b5a558/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ef4d72fac9001cb39fac24a79d9e502a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b72607042c30a185ae75cd2683ba7c52/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a5818ef7b39f40a3d7c247de2ad8da3f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a1b0187b40d4739a987194c329cc10ef/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3e7778ab20b82a2703cb474385468741/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3e7778ab20b82a2703cb474385468741/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:14:9-40
+activity#gwg.ivo.android.popularmovies.MainActivity
+ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:19:27-74
+activity#gwg.ivo.android.popularmovies.MovieActivity
+ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:22:9-25:20
+	android:parentActivityName
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:23:13-55
+	android:name
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml:22:19-48
+uses-sdk
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/73ae443d9eb39364d9f2e8d410a3e2ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/73ae443d9eb39364d9f2e8d410a3e2ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3e7778ab20b82a2703cb474385468741/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3e7778ab20b82a2703cb474385468741/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3178ef8f52a63c0d2213c0d56d25afb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3178ef8f52a63c0d2213c0d56d25afb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/379d7005daf8cf4617dfab2f87015cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/379d7005daf8cf4617dfab2f87015cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bdf365450610af98110c31877ee36a25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bdf365450610af98110c31877ee36a25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a9e072690b95d5db30409ef0300d1a2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a9e072690b95d5db30409ef0300d1a2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cd0fae9e919cce19cc9d36d1bf598789/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cd0fae9e919cce19cc9d36d1bf598789/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/21f235ac35d183275b0559ffd7b5a558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/21f235ac35d183275b0559ffd7b5a558/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ef4d72fac9001cb39fac24a79d9e502a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ef4d72fac9001cb39fac24a79d9e502a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b72607042c30a185ae75cd2683ba7c52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b72607042c30a185ae75cd2683ba7c52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a5818ef7b39f40a3d7c247de2ad8da3f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a5818ef7b39f40a3d7c247de2ad8da3f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a1b0187b40d4739a987194c329cc10ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ivaylodimitrov/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a1b0187b40d4739a987194c329cc10ef/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivaylodimitrov/Desktop/UdacityScholarship/AND/Projects/PopularMovies-part-1 v0.2/app/src/main/AndroidManifest.xml
