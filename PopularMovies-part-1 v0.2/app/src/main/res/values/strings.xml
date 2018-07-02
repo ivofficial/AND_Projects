@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="movie_title">Title: </string>
+    <string name="movie_overview">Overview: </string>
+    <string name="movie_rating">Rating: </string>
+    <string name="movie_date">Release Date: </string>
+    <string name="filter_title">Filter Movies</string>
+    <string name="filter_popularity">Filter By Popularity</string>
+    <string name="filter_rating">Filter By Rating</string>
+    <string name="error_message">Sorry, no movies to display!</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/filter_action"
+        android:icon="@drawable/filter24x24"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:title="@string/filter_title">
+
+        <menu>
+            <item
+                android:id="@+id/popular_action"
+                android:title="@string/filter_popularity"
+                app:showAsAction="never"
+                android:orderInCategory="200"
+                android:icon="@drawable/star_face24x24">
+
+            </item>
+            <item
+                android:id="@+id/rating_action"
+                android:title="@string/filter_rating"
+                app:showAsAction="never"
+                android:orderInCategory="300"
+                android:icon="@drawable/thumb_up24x24">
+
+            </item>
+
+        </menu>
+
+    </item>
+
+</menu>
